@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**Isaac20042012/Isaac20042012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando com HTML e CSS
+- 🌱 Atualmente estou aprendendo JS
+- ⚡ Curiosidade: React Native
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Eu sou o Isaac 🚀🚀
+[![Programação Facíl](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-E3dJ4KL3dJigDV30DwCbg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac20042012&show_icons=true&theme=dracula)
+
+<img src="" alt="genarete">
+
+<div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 20px;" align-items="center">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 20px;" align-items="center">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="border-radius: 20px;" align-items="center">
+</div>
+
+``` JS
+    let person = {
+        name: "isaac",
+        isHuman: true
+    }
+    console.log(person.name)
+```
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
+<head>
+    <script src="./script.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
