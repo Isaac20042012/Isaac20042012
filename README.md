@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com HTML e CSS
 - 🌱 Atualmente estou aprendendo JS
 - ⚡ Curiosidade: React Native
-
+<img src="./card.svg" alt="card" align="right">
 
 [![Programação Facíl](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-E3dJ4KL3dJigDV30DwCbg)
 
