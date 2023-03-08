@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="border-radius: 20px;" align-items="center">
 </div>
 
+- [x] Aprender HTML
+- [x] Aprender CSS
+- [ ] Aprender JS
+
 ``` JS
     let person = {
         name: "isaac",
