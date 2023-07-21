@@ -17,7 +17,7 @@
 
 - [x] Aprender HTML
 - [x] Aprender CSS
-- [ ] Aprender JS
+- [x] Aprender JS
 
 ``` JS
     let person = {
