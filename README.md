@@ -4,8 +4,6 @@
 - 🌱 Atualmente estou aprendendo JS
 - ⚡ Curiosidade: React Native
 
-[![Programação Facíl](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-E3dJ4KL3dJigDV30DwCbg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac20042012&show_icons=true&theme=dracula)
 
 <div>
