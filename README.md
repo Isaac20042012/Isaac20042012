@@ -18,6 +18,7 @@
 - [x] Aprender HTML
 - [x] Aprender CSS
 - [x] Aprender JS
+- [ ] Aprender React JS
 
 ``` JS
     let person = {
