@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Isaac 🚀🚀
 
 - 🔭 Atualmente estou trabalhando com HTML e CSS
-- 🌱 Atualmente estou aprendendo JS
+- 🌱 Atualmente estou aprendendo ReactJS
 - ⚡ Curiosidade: React Native
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac20042012&show_icons=true&theme=dracula)
@@ -16,10 +16,3 @@
 - [x] Aprender CSS
 - [x] Aprender JS
 - [ ] Aprender React JS
-
-``` JS
-    let person = {
-        name: "isaac",
-        isHuman: true
-    }
-```
